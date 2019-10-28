@@ -1,5 +1,1 @@
-CREATE TABLE Vdms  
-( customer_id number(10) NOT NULL,  
-  customer_name varchar2(50) NOT NULL,  
-  city varchar2(50)  
-);
+CREATE TABLE persons1 ( person_id number(10) NOT NULL, first_name varchar2(50) NOT NULL, last_name varchar2(50) NOT NULL );
