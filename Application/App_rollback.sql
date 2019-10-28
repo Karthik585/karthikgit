@@ -1,1 +1,1 @@
-DROP TABLE Dbms;
+DROP TABLE Dbms
