@@ -1,5 +1,6 @@
-INSERT INTO suppliers  
-(supplier_id, supplier_name)  
-SELECT age, address  
-FROM customers  
-WHERE age > 20;
+CREATE TABLE customers perge 
+( customer_id number(10) NOT NULL,  
+  customer_name varchar2(50) NOT NULL,  
+  city varchar2(50),  
+  CONSTRAINT customers_pk PRIMARY KEY (customer_id)  
+);
