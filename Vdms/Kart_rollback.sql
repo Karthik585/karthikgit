@@ -1,1 +1,1 @@
-DROP TABLE Vdms;
+DROP TABLE health;
