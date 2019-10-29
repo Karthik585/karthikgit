@@ -1,1 +1,1 @@
-DROP TABLE list_customers PURGE;
+DROP TABLE hr.admin_emp_dept;
