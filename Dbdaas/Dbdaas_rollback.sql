@@ -1,1 +1,1 @@
->db.SSSIT.drop()
+DROP TABLE IF NOT EXISTS tasks;
