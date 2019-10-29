@@ -1,1 +1,1 @@
-DROP TABLE dw_empl;
+DROP TABLE loguser12345;
