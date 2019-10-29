@@ -1,1 +1,1 @@
-DROP TABLE hr.admin_emp_dept;
+DROP TABLE dw_empl;
