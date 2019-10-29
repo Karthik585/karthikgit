@@ -1,1 +1,1 @@
->use test
+>db.createCollection("SSSIT")
