@@ -1,0 +1,5 @@
+CREATE GLOBAL TEMPORARY TABLE admin_work_area
+        (startdate DATE,
+         enddate DATE,
+         class CHAR(20))
+      ON COMMIT DELETE ROWS;
