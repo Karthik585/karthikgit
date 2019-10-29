@@ -1,1 +1,1 @@
-DROP TABLE loguser
+DROP TABLE loguser;
