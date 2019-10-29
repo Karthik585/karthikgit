@@ -1,1 +1,1 @@
-DROP TABLE loguser12345;
+DROP TABLE loguser
