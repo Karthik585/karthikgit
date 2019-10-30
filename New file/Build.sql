@@ -1,4 +1,5 @@
-CREATE TABLE hr.admin_emp_dept
-     PARALLEL COMPRESS
-     AS SELECT * FROM hr.employees
-     WHERE department_id = 10;
+CREATE TABLE labour  
+( labour_id number(10) NOT NULL,  
+  labour_name varchar2(50) NOT NULL,  
+  city varchar2(50)  
+);
