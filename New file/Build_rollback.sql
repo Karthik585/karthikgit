@@ -1,1 +1,1 @@
-DROP TABLE labour;
+DROP TABLE student;
