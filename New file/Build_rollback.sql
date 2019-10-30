@@ -1,1 +1,1 @@
-DROP TABLE student2;
+DROP TABLE  cus_tbl;
