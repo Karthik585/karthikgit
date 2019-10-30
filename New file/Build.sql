@@ -1,5 +1,5 @@
-CREATE TABLE labour  
-( labour_id number(10) NOT NULL,  
-  labour_name varchar2(50) NOT NULL,  
+CREATE TABLE student  
+( student_id number(10) NOT NULL,  
+  student_name varchar2(50) NOT NULL,  
   city varchar2(50)  
 );
