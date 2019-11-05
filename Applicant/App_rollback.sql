@@ -1,1 +1,1 @@
-DROP TABLE  passengers;
+DROP TABLE  table_name;
