@@ -1,1 +1,1 @@
-DROP TABLE  cus_tbl;
+DROP TABLE  passengers;
