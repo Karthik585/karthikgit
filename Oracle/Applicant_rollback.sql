@@ -1,1 +1,1 @@
-DROP TABLE customers;
+DROP TABLE labours;
