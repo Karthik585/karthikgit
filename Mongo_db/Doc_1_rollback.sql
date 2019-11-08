@@ -1,1 +1,1 @@
-db.SSSIT.drop
+db.mycollection.drop
