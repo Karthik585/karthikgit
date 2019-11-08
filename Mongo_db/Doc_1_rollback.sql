@@ -1,1 +1,1 @@
-db.mycollection.drop
+db.mycollection.drop;
