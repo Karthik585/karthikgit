@@ -1,1 +1,1 @@
-db.createCollection("SSSIT")
+db.createCollection("mycollection")
